@@ -1,6 +1,6 @@
-# Описание
-Задача регрессии - определение веса рыбы по ее параметрам.
+# Description
+The task of linear regression is to determine the weight of a fish by its parameters.
 
 
-# Ссылки
-Ноутбук с решением: [subm_fish-2.ipynb](https://bitbucket.org/zosimovaa/fish-regression/src/master/subm_fish-2.ipynb?viewer=nbviewer)
+# Links
+Jupiter notebook: [subm_fish-2.ipynb](https://github.com/zosimovaa/Fish-regression/blob/master/subm_fish-2.ipynb)
